@@ -9,5 +9,5 @@
 لینک داده اصلی: https://www.kaggle.com/ealaxi/paysim1/download
 
 # لینک صفحه اینستاگرام: https://instagram.com/amirdatascience
-# لینک چنل نلگذام: https://t.me/amirdatascience
+# لینک چنل تلگرام: https://t.me/amirdatascience
     
